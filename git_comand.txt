@@ -1,0 +1,10 @@
+  1  rm testimg.py
+    2  ls
+    3  git status
+    4  git add testing.py
+    5  git status
+    6  git commit -m"aurosish"
+    7  git status
+    8  rm testing.py
+    9  git recover testing.py
+   10  git restore testing.py
