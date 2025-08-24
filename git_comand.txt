@@ -1,11 +1,11 @@
-  1  rm testimg.py
-    2  ls
-    3  git status
-    4  git add testing.py
-    5  git status
-    6  git commit -m"aurosish"
-    7  git status
-    8  rm testing.py
-    9  git recover testing.py
-   10  git restore testing.py
-this is dome extra changes 
+rm testimg.py
+ls
+git status
+git add testing.py
+git status
+git commit -m"aurosish"
+git status
+rm testing.py
+git recover testing.py
+git restore testing.py
+this is dome extra changes
